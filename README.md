@@ -1,6 +1,3 @@
-![Task_page](https://github.com/Taiseer517/TaskManagerPlanIT/assets/127662532/7fb9fd01-e2c4-4f2a-b741-ec9d0ef1cfd0)![Homepage](https://github.com/Taiseer517/TaskManagerPlanIT/assets/127662532/f7730c60-0b5a-433f-b774-594c32bec618)
-# taskmanager
-
 Assignment Project
 
 ## Getting Started
